@@ -22,14 +22,14 @@ MENTOR: NEELA SANTOSH
   
   The processor is implemented using Verilog/VHDL and follows a 4-stage pipeline design:
 
-  Fetch (IF) – Instruction fetching from memory.
-  Decode (ID) – Instruction decoding and operand fetching.
-  Execute (EX) – ALU operation execution.
-  Write-back (WB) – Writing results back to registers/memory.
-  PROJECT REQUIREMENTS
-  Design a 4-stage pipelined processor in Verilog/VHDL.
-  Implement data forwarding and hazard detection if required.
-  Simulate and verify each pipeline stage.
+   Fetch (IF) – Instruction fetching from memory.
+   Decode (ID) – Instruction decoding and operand fetching.
+   Execute (EX) – ALU operation execution.
+   Write-back (WB) – Writing results back to registers/memory.
+   PROJECT REQUIREMENTS
+   Design a 4-stage pipelined processor in Verilog/VHDL.
+   Implement data forwarding and hazard detection if required.
+   Simulate and verify each pipeline stage.
   
 #DELIVERABLES
   ✅ Processor Verilog/VHDL Code
