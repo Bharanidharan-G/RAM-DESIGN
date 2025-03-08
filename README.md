@@ -34,4 +34,7 @@ Clone this repository.
 Compile the code using an HDL simulator (ModelSim, Xilinx Vivado, etc.).
 Run the testbench to verify RAM read/write operations.
 Analyze the simulation results.
-  
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5fe97dac-a489-4fde-a25b-4998c67a1f97)
