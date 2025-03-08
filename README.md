@@ -14,33 +14,24 @@ MENTOR: NEELA SANTOSH
 
 OVERVIEW:
 
-This project involves designing a 4-stage pipelined processor that supports basic instructions, including:
-ADD (Addition)
-SUB (Subtraction)
-LOAD (Memory Load Operation)
-  
-The processor is implemented using Verilog/VHDL and follows a 4-stage pipeline design:
-Fetch (IF) – Instruction fetching from memory.
-Decode (ID) – Instruction decoding and operand fetching.
-Execute (EX) – ALU operation execution.
-Write-back (WB) – Writing results back to registers/memory.
+This project involves developing a simple synchronous RAM module that supports read and write operations. The design is implemented using Verilog/VHDL and ensures synchronized memory access using a clock signal.
 
 PROJECT REQUIREMENTS:
 
-Design a 4-stage pipelined processor in Verilog/VHDL.
-Implement data forwarding and hazard detection if required.
-Simulate and verify each pipeline stage.
-  
+Implement a synchronous RAM module with read and write functionality.
+Ensure data is stored and retrieved correctly.
+Use a clock signal to synchronize operations.
+
 DELIVERABLES:
 
-✅ Processor Verilog/VHDL Code
+✅ RAM Module Verilog/VHDL Code
 ✅ Testbench for Functional Verification
-✅ Simulation Showing Each Pipeline Stage
+✅ Simulation Demonstrating RAM Functionality
 
 INSTRUCTIONS:
 
 Clone this repository.
-Use an HDL simulator (ModelSim, Xilinx Vivado, etc.) to compile the design.
-Run the testbench to verify pipeline execution.
-Analyze simulation results for correct stage operation.
+Compile the code using an HDL simulator (ModelSim, Xilinx Vivado, etc.).
+Run the testbench to verify RAM read/write operations.
+Analyze the simulation results.
   
