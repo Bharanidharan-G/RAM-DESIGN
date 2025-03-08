@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-OVERVIEW
+OVERVIEW:
 
 This project involves designing a 4-stage pipelined processor that supports basic instructions, including:
 ADD (Addition)
@@ -25,19 +25,19 @@ Decode (ID) – Instruction decoding and operand fetching.
 Execute (EX) – ALU operation execution.
 Write-back (WB) – Writing results back to registers/memory.
 
-PROJECT REQUIREMENTS
+PROJECT REQUIREMENTS:
 
 Design a 4-stage pipelined processor in Verilog/VHDL.
 Implement data forwarding and hazard detection if required.
 Simulate and verify each pipeline stage.
   
-DELIVERABLES
+DELIVERABLES:
 
 ✅ Processor Verilog/VHDL Code
 ✅ Testbench for Functional Verification
 ✅ Simulation Showing Each Pipeline Stage
 
-INSTRUCTIONS
+INSTRUCTIONS:
 
 Clone this repository.
 Use an HDL simulator (ModelSim, Xilinx Vivado, etc.) to compile the design.
